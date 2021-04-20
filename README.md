@@ -1,0 +1,2 @@
+This application will perform basic tasks nessecary for missionary work. It will gather data on the users personal contacts, including social media. It will provide the user with an easy to use GUI which will help the user find new people and share with them the everlasting gospel of Jesus Christ. The application will also link with the refferal process in The Church of Jesus Christ of Latter-day Saints, so missionaries can contact those that are found through the application.
+This application is owned by MAXWELL S. SMITH.
